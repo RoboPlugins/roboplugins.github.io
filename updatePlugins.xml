@@ -1,4 +1,4 @@
 <plugins>
     <plugin id="PainPoints" url="http://roboplugins.github.io/PainPoints.zip" version="1.0"/>
-    <plugin id="RoboHexar" url="http://roboplugins.github.io/RoboHexar.zip" version="1.0"/>
+    <plugin id="RoboHexar" url="http://roboplugins.github.io/RoboHexar.jar" version="1.0"/>
 </plugins>
