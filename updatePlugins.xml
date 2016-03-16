@@ -1,5 +1,5 @@
 <plugins>
-    <plugin id="painpoints" url="http://roboplugins.github.io/PainPoints.zip" version="1.17"/>
+    <plugin id="painpoints" url="http://roboplugins.github.io/PainPoints.rar" version="1.17"/>
     <plugin id="RoboHexar" url="http://roboplugins.github.io/RoboHexar.jar" version="1.0"/>
     <plugin id="GitPair" url="http://roboplugins.github.io/GitPair.jar" version="1.0"/>
 </plugins>
