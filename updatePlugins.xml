@@ -1,11 +1,3 @@
-<!DOCTYPE plugins [
-        <!ELEMENT plugins (plugin)*>
-        <!ELEMENT plugin (#PCDATA)>
-        <!ATTLIST plugin
-                id CDATA #REQUIRED
-                url CDATA #REQUIRED
-                version CDATA #IMPLIED>
-        ]>
 <plugins>
     <plugin id="painpoint" url="http://roboplugins.github.io/PainPoints.zip" version="1.17"/>
     <plugin id="RoboHexar" url="http://roboplugins.github.io/RoboHexar.zip" version="1.0"/>
