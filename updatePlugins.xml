@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <plugins>
     <plugin id="painpoint" url="http://roboplugins.github.io/PainPoints.zip" version="1.17"/>
     <plugin id="RoboHexar" url="http://roboplugins.github.io/RoboHexar.zip" version="1.0"/>
